@@ -1,6 +1,6 @@
 {
   "name": "@charles-johnson/react-native-ping",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "description": "Highly accurate ICMP Ping controller for React Native",
   "main": "index.js",
   "scripts": {
@@ -19,10 +19,10 @@
   "author": "tiancailuohao@gmail.com",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2 || ^0.57.0 || ^0.68.0 || ^0.70.0 || ^0.71.0 || ^0.72.0 || ^0.73.0 || ^0.74.0 || ^0.76.9"
+    "react-native": "^0.41.2 || ^0.57.0 || ^0.68.0 || ^0.70.0 || ^0.71.0 || ^0.72.0 || ^0.73.0 || ^0.74.0 || ^0.76.9 || ^0.81.6"
   },
   "devDependencies": {
-    "react-native": "^0.76.9",
-    "typescript": "^5.3.3"
+    "react-native": "^0.81.6",
+    "typescript": "^5.8.3"
   }
 }
